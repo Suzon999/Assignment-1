@@ -67,9 +67,13 @@ h1{
 .box-3 img{
     width: 50%;
 }
+.box-item{
+    margin-left:3%;
+    margin-right: 2%;
+}
 .box-1{
     width:26% ;
-    margin-left:3% ;
+    margin-left:2% ;
     
     border-radius:15px;
     background-color: rgb(149, 170, 167);
@@ -80,19 +84,17 @@ h1{
 }
 .box-2{
     width:26% ;
-    margin-left:3% ;
+    margin-left:2% ;
     
     border-radius:15px;
     background-color: rgb(212, 190, 201);
     padding-left: 30px;
     padding-bottom: 30px;
     padding-right: 30px;
-
-   
 }
 .box-3{
     width:26% ;
-    margin-left:3% ;
+    margin-left:2% ;
     
     border-radius:15px;
     background-color: rgb(150, 192, 148);
