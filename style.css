@@ -1,13 +1,13 @@
 body{
     font-family: 'Archivo Black', sans-serif;
-font-family: 'Luxurious Roman', cursive;
-font-family: 'Poppins', sans-serif;
-font-family: 'Source Sans Pro', sans-serif;
-    
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
 }
 h1{
-    font-size: 70px;
+    font-size: 100px;
 }
 .section-1{
     margin-left: 5%;
@@ -17,10 +17,8 @@ h1{
     margin-bottom: 20px;
 }
 .mission{
-    border-left: 5px solid rgb(218, 36, 148);
-    border-image: linear-gradient(rgb(218, 146, 14) rgb(128, 0, 90));
-    
-
+    border-left: 5px solid  rgb(223, 13, 66);
+    border-radius: 10px;
 }
 .section-2 h2{
     font-size: 65px;
@@ -49,8 +47,7 @@ h1{
     text-decoration: none;
     font-size: 20px;
     color: white;
-    border-radius: 5px;
-    
+    border-radius: 5px;  
 }
 .section-2{
     margin-bottom: 100px;
@@ -80,12 +77,10 @@ h1{
     padding-left:30px;
     padding-bottom: 30px;
     padding-right: 30px;
-    
 }
 .box-2{
     width:26% ;
     margin-left:2% ;
-    
     border-radius:15px;
     background-color: rgb(212, 190, 201);
     padding-left: 30px;
@@ -95,23 +90,21 @@ h1{
 .box-3{
     width:26% ;
     margin-left:2% ;
-    
     border-radius:15px;
     background-color: rgb(150, 192, 148);
     padding-left: 30px;
     padding-right: 30px;
-    
 }
 .section-3 img{
-    width: 80%;
-    margin-left: 8%;
+    width: 75%;
+    margin-left: 15%;
 }
 .section-3{
     display: flex;
     margin-top: 150px;
 }
 .section-3 h2{
-    font-size: 50px;
+    font-size: 60px;
 }
 .section-3{
     margin-right: 2%;
@@ -123,20 +116,24 @@ h1{
     margin-top: 150px;
 }
 .section-4 img{
-    width: 80%;
+    width: 70%;
     margin-left: 7%;
 }
 .contant{
+   
     margin-left:3%;
-
 }
 .section-5 h2{
     text-align: center;
     font-size: 70px;
     margin-top: 100px;
+    text-decoration: underline rgb(109, 188, 207);
+}
+h4{
+    font-weight: 800;
 }
 .section-5 img{
-    width: 70%;
+    width: 90%;
     margin-left: 10%;
 }
 .section-5 h3{
